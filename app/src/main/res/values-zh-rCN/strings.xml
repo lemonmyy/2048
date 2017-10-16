@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">2048</string>
+  <string name="header">2048</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">设置</string>
+  <string name="new_game">新游戏</string>
+
+  <string name="high_score">最高分</string>
+  <string name="score">分数</string>
+  <string name="instructions">滑动移动。 2 + 2 = 4. 达到 2048.</string>
+  <string name="you_win">你赢了!</string>
+  <string name="game_over">游戏结束!</string>
+  <string name="go_on">点击继续</string>
+  <string name="for_now">现在...</string>
+  <string name="endless">"无尽"模式</string>
+</resources>
