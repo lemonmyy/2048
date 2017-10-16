@@ -19,7 +19,7 @@ import net.youmi.android.AdManager;
 import net.youmi.android.banner.AdSize;
 import net.youmi.android.banner.AdView;
 import net.youmi.android.banner.AdViewListener;
-
+//mengl
 public class MainActivity extends ActionBarActivity {
 
     protected final static String TAG = "MainActivity";
